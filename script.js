@@ -220,6 +220,6 @@ window.onload = function() {
   const timer = setInterval(updateCountdown, 1000);
   
   // Add some sample wishes
-  addWishToWall('Dinesh', 'Wishing you the happiest of birthdays! May all your dreams come true.');
+  addWishToWall('Ritika', 'Wishing you the happiest of birthdays! May all your dreams come true.');
   addWishToWall('Friend', 'Happy Birthday! Hope your day is as amazing as you are!');
 };
